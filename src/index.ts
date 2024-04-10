@@ -8,6 +8,7 @@
 // PascalCase
 
 // this - referência a própria classe
+/*
 class Person{
     name: string;
     age: number;
@@ -28,6 +29,7 @@ class Person{
         console.log(this.age);
     }
 }
+*/
 
 const personA = new Person('Alex', 33);
 const personB = new Person('Thiago', 18);
